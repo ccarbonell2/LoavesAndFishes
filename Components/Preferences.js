@@ -11,7 +11,7 @@ function Preferences() {
                 How many people are in your house?
                 How many babies live in your house?
                 How many children and teens live in your house?
-                How many adults live in your house?
+                How many adults are in your house?
             </Panel>
             <Panel title="Allergies" isActive={true}>
                 Add Allergy
